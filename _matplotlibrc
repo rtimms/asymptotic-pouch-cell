@@ -1,0 +1,30 @@
+# Use LaTeX fonts
+font.family: serif
+font.serif: ComputerModern
+text.usetex: true
+
+# Backend options (42: use TrueType fonts)
+pdf.fonttype: 42
+ps.fonttype: 42
+
+# Set font sizes
+font.size: 8
+axes.labelsize: 10
+axes.titlesize: 10
+xtick.labelsize: 8
+ytick.labelsize: 8
+legend.fontsize: 8
+
+# Set lines and ticks
+lines.linewidth: 1.0
+lines.markersize: 3.6
+
+# Set legend properties
+legend.markerscale: 0.75
+legend.framealpha: 1.0
+legend.handlelength: 0.75
+
+## Set legend properties
+#legend.markerscale: 1.0
+#legend.framealpha: 1.0
+#legend.handlelength: 1.5
