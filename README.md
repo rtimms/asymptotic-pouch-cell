@@ -12,6 +12,6 @@ The scripts used to generate the figures and tables are as follows:
 - Figures 2-5: `compare_models`
 - Figure 6: `make_error_plot`
 - Table 1: `make_error_table_1plus1D` for the "1+1D" results and ` make_error_table_CC` for the "CC" results
-- Figures SM1: `supplementary/plot_discharge_curve`
+- Figure SM1: `supplementary/plot_discharge_curve`
 - Figures SM2-SM5: `supplementary/plot_potentials_concentrations`
 - Table SM2: `supplementary/make_error_table`
